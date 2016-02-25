@@ -1,0 +1,36 @@
+/* CSS declarations go here */
+.initLogin{
+	padding-bottom: 100px;
+}
+
+.addBtn{
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.neonGreen{
+	background: #afff00;
+}
+
+.prime{
+	background:#26a69a;
+}
+
+.crayola{
+	background:#0c6d51;
+}
+
+.magenta{
+	background:#89457c;
+}
+
+#logoutBtn{
+	position: absolute;
+	right:0;
+}
+
+.bottonButtons{
+	position:relative;
+	bottom: 10px;
+}
